@@ -2,21 +2,20 @@
 
 ## 💻 Sobre mi
 
-Soc estudiant de DAM. Vaig fer aquest canvi professional buscant un sector que sempre m'havia cridat l'atenció, i s'ha acabat convertint en la meva vocació. M'encanta investigar, resoldre problemes, trobar les febleses del codi i entendre com protegir el que creem.
+Soc **estudiant de DAM**. Vaig fer aquest **canvi professional** buscant un sector que sempre m'havia cridat l'atenció, i s'ha acabat convertint en la meva **vocació**. M'encanta **investigar**, **resoldre problemes**, trobar les **febleses del codi** i entendre com **protegir** el que creem.
 
-Actualment, dedico el meu temps lliure a quatre àrees per tenir un perfil més complet:
+Actualment, dedico el meu temps lliure a quatre àrees per tenir un **perfil més complet**:
 
-- 📱 **Desenvolupament d'aplicacions.**
-- 🔐 **Ciberseguretat**.
-- ☁️ **Serveis al núvol**.
-- 🤖 **Integració d'IA i agents autònoms**.
+- **Desenvolupament d'aplicacions.**
+- **Ciberseguretat**.
+- **Serveis al núvol**.
+- **Integració d'IA i agents autònoms**.
 
-
-El meu objectiu és tenir una visió global, saber construir projectes des de zero, aplicar-hi les últimes tecnologies i desplegar-los de manera segura.
+El meu objectiu és tenir una **visió global**, saber **construir projectes des de zero**, aplicar-hi les últimes tecnologies i **desplegar-los de manera segura**.
 
 ## 🌲 Fora de la pantalla
 
-Quan no estic picant codi, segurament em trobaràs passant temps amb la família, al tatami practicant judo o fent alguna ruta per la muntanya.
+Quan no estic picant codi, segurament em trobaràs passant temps amb la **família**, al tatami practicant **judo** o fent alguna ruta per la **muntanya**.
 
 ## 🎓 Formació
 
