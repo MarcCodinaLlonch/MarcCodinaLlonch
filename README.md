@@ -7,9 +7,9 @@ Soc **estudiant de DAM**. Vaig fer aquest **canvi professional** buscant un sect
 Actualment, dedico el meu temps lliure a quatre àrees per tenir un **perfil més complet**:
 
 - **Desenvolupament d'aplicacions.**
-- **Ciberseguretat**.
-- **Serveis al núvol**.
 - **Integració d'IA i agents autònoms**.
+- **Serveis al núvol**.
+- **Ciberseguretat**.
 
 El meu objectiu és tenir una **visió global**, saber **construir projectes des de zero**, aplicar-hi les últimes tecnologies i **desplegar-los de manera segura**.
 
