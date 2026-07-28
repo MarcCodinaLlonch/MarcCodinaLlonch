@@ -10,7 +10,7 @@ El meu objectiu és tenir una **visió global**, saber **construir projectes des
 
 ## 🌲 Fora de la pantalla
 
-Quan no estic picant codi, segurament em trobaràs passant temps amb la **família**, al tatami practicant **judo** o fent alguna ruta per la **muntanya**.
+Quan no estic picant codi, segurament em trobaràs passant temps amb la **família** o fent alguna ruta per la **muntanya**.
 
 ## 🎓 Formació
 
