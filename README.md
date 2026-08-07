@@ -15,7 +15,7 @@ Quan no estic picant codi, segurament em trobaràs passant temps amb la **famíl
 ## 🎓 Formació
 
 ![DAM](https://img.shields.io/badge/en%20curs...-DAM-1E90FF?style=for-the-badge&logoColor=white) ![DissenyGràfic](https://img.shields.io/badge/Titulat-Gr%C3%A0fica%20Publicit%C3%A0ria-9370D8?style=for-the-badge&logoColor=white)
-> **Actualment cursant** el CFGS en **Desenvolupament d'Aplicacions Multiplataforma** al centre Tekcnós (UVIC-UCC)
+> **Actualment cursant** el CFGS en **Desenvolupament d'Aplicacions Multiplataforma** al centre Teknós (UVIC-UCC)
 
 ## 📫 Connectem!
 
