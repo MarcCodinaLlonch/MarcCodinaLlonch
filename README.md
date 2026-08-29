@@ -4,9 +4,7 @@
 
 Soc **estudiant de DAM**. Vaig fer aquest **canvi professional** buscant un sector que sempre m'havia cridat l'atenció, i s'ha acabat convertint en la meva **vocació**. M'encanta **investigar**, **resoldre problemes**, trobar les **febleses del codi** i entendre com **protegir** el que creem.
 
-Aprofito el meu temps lliure per **investigar** àrees que crec que em poden ajudar en el meu **futur professional**. Més enllà del propi **desenvolupament de programari**, exploro la **integració d'IA i agents autònoms**, els **serveis al núvol** i la **ciberseguretat**.
-
-El meu objectiu és tenir una **visió global**, saber **construir projectes des de zero**, aplicar-hi les últimes tecnologies i **desplegar-los de manera segura**.
+Aprofito el meu temps lliure per **investigar** àrees que crec que em poden ajudar en el meu **futur professional**. El meu objectiu és tenir una **visió global**, saber **construir projectes des de zero**, aplicar-hi les últimes tecnologies i **desplegar-los de manera segura**.
 
 ## 🌲 Fora de la pantalla
 
